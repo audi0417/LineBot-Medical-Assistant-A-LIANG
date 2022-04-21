@@ -17,3 +17,6 @@
 ![image](https://github.com/audi0417/LineBot-Medical-Assistant-A-LIANG/blob/main/photo/0009.png)
 ![image](https://github.com/audi0417/LineBot-Medical-Assistant-A-LIANG/blob/main/photo/0010.png)
 ![image](https://github.com/audi0417/LineBot-Medical-Assistant-A-LIANG/blob/main/photo/0011.png)
+
+## 影片連結
+https://www.youtube.com/watch?v=VyZAQQYLJdI&ab_channel=%E9%99%B3%E6%A5%B7%E8%9E%8D
