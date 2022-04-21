@@ -6,4 +6,14 @@
 
 
 ## 簡報內容
-![image]()
+![image](https://github.com/audi0417/LineBot-Medical-Assistant-A-LIANG/blob/main/photo/0001.png)
+![image](https://github.com/audi0417/LineBot-Medical-Assistant-A-LIANG/blob/main/photo/0002.png)
+![image](https://github.com/audi0417/LineBot-Medical-Assistant-A-LIANG/blob/main/photo/0003.png)
+![image](https://github.com/audi0417/LineBot-Medical-Assistant-A-LIANG/blob/main/photo/0004.png)
+![image](https://github.com/audi0417/LineBot-Medical-Assistant-A-LIANG/blob/main/photo/0005.png)
+![image](https://github.com/audi0417/LineBot-Medical-Assistant-A-LIANG/blob/main/photo/0006.png)
+![image](https://github.com/audi0417/LineBot-Medical-Assistant-A-LIANG/blob/main/photo/0007.png)
+![image](https://github.com/audi0417/LineBot-Medical-Assistant-A-LIANG/blob/main/photo/0008.png)
+![image](https://github.com/audi0417/LineBot-Medical-Assistant-A-LIANG/blob/main/photo/0009.png)
+![image](https://github.com/audi0417/LineBot-Medical-Assistant-A-LIANG/blob/main/photo/0010.png)
+![image](https://github.com/audi0417/LineBot-Medical-Assistant-A-LIANG/blob/main/photo/0011.png)
